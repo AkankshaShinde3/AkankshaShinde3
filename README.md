@@ -4,10 +4,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshashinde3&label=Profile%20views&color=0e75b6&style=flat" alt="akankshashinde3" /> </p> -->
 
 - 🔭 I’m currently working on **MERN projects**
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 💬 Ask me about **React**
+- 🌱 I’m currently learning **NextJS**
+- 💬 Ask me about **Java, React**
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
