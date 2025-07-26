@@ -27,8 +27,7 @@
 <div align='left'>	
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tools and Technologies</h2></summary>
-  </ul></div>
+    <summary><h2 style="display: inline-block">Tools and Technologies</h2></summary></ul></div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,postgres,express,firebase,github,html,java,js,materialui,mongodb,mysql,nodejs,postman,py,react,redux,tailwind,ts,vscode" />
