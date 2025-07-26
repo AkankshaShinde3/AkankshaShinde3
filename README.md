@@ -14,7 +14,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/akanksha-shinde-051661290" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  AkankshaShinde3-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  AkankshaShinde-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 <li>
@@ -28,9 +28,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tools and Technologies</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+  </ul></div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,postgres,express,firebase,github,html,java,js,materialui,mongodb,mysql,nodejs,postman,py,react,redux,tailwind,ts,vscode" />
